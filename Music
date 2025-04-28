@@ -64,89 +64,89 @@
 
   <!-- Producto 1 -->
   <div class="producto">
-    <img src="imagen1.jpg" alt="Producto 1">
-    <h2>Nombre del Producto 1</h2>
-    <p>$Precio</p>
+    <img src="https://m.media-amazon.com/images/I/71ImmoYIYlL._AC_SL1500_.jpg" alt="Guitarra Fender FA-125">
+    <h2>Guitarra Acústica Fender FA-125</h2>
+    <p>$3,200</p>
     <div class="botones">
       <a href="#">Comprar</a>
-      <a href="https://wa.me/tu-numero" class="whatsapp">WhatsApp</a>
+      <a href="https://wa.me/521234567890" class="whatsapp">WhatsApp</a>
     </div>
   </div>
 
   <!-- Producto 2 -->
   <div class="producto">
-    <img src="imagen2.jpg" alt="Producto 2">
-    <h2>Nombre del Producto 2</h2>
-    <p>$Precio</p>
+    <img src="https://m.media-amazon.com/images/I/61B1pJ+oDDL._AC_SL1500_.jpg" alt="Micrófono Shure SM58">
+    <h2>Micrófono Shure SM58</h2>
+    <p>$2,500</p>
     <div class="botones">
       <a href="#">Comprar</a>
-      <a href="https://wa.me/tu-numero" class="whatsapp">WhatsApp</a>
+      <a href="https://wa.me/521234567890" class="whatsapp">WhatsApp</a>
     </div>
   </div>
 
   <!-- Producto 3 -->
   <div class="producto">
-    <img src="imagen3.jpg" alt="Producto 3">
-    <h2>Nombre del Producto 3</h2>
-    <p>$Precio</p>
+    <img src="https://m.media-amazon.com/images/I/51CkzVVaBYL._AC_SL1000_.jpg" alt="Pedal BOSS DS-1">
+    <h2>Pedal de efectos BOSS DS-1 Distortion</h2>
+    <p>$1,600</p>
     <div class="botones">
       <a href="#">Comprar</a>
-      <a href="https://wa.me/tu-numero" class="whatsapp">WhatsApp</a>
+      <a href="https://wa.me/521234567890" class="whatsapp">WhatsApp</a>
     </div>
   </div>
 
   <!-- Producto 4 -->
   <div class="producto">
-    <img src="imagen4.jpg" alt="Producto 4">
-    <h2>Nombre del Producto 4</h2>
-    <p>$Precio</p>
+    <img src="https://m.media-amazon.com/images/I/71wUOZaZX6L._AC_SL1500_.jpg" alt="Bajo Ibanez GSR200">
+    <h2>Bajo Eléctrico Ibanez GSR200</h2>
+    <p>$6,500</p>
     <div class="botones">
       <a href="#">Comprar</a>
-      <a href="https://wa.me/tu-numero" class="whatsapp">WhatsApp</a>
+      <a href="https://wa.me/521234567890" class="whatsapp">WhatsApp</a>
     </div>
   </div>
 
   <!-- Producto 5 -->
   <div class="producto">
-    <img src="imagen5.jpg" alt="Producto 5">
-    <h2>Nombre del Producto 5</h2>
-    <p>$Precio</p>
+    <img src="https://m.media-amazon.com/images/I/71s4EiZ2gvL._AC_SL1500_.jpg" alt="Teclado Yamaha PSR-E373">
+    <h2>Teclado Yamaha PSR-E373</h2>
+    <p>$5,400</p>
     <div class="botones">
       <a href="#">Comprar</a>
-      <a href="https://wa.me/tu-numero" class="whatsapp">WhatsApp</a>
+      <a href="https://wa.me/521234567890" class="whatsapp">WhatsApp</a>
     </div>
   </div>
 
   <!-- Producto 6 -->
   <div class="producto">
-    <img src="imagen6.jpg" alt="Producto 6">
-    <h2>Nombre del Producto 6</h2>
-    <p>$Precio</p>
+    <img src="https://m.media-amazon.com/images/I/61pMWvHdQyL._AC_SL1000_.jpg" alt="Ukelele Kala KA-15S">
+    <h2>Ukelele Kala KA-15S</h2>
+    <p>$2,000</p>
     <div class="botones">
       <a href="#">Comprar</a>
-      <a href="https://wa.me/tu-numero" class="whatsapp">WhatsApp</a>
+      <a href="https://wa.me/521234567890" class="whatsapp">WhatsApp</a>
     </div>
   </div>
 
   <!-- Producto 7 -->
   <div class="producto">
-    <img src="imagen7.jpg" alt="Producto 7">
-    <h2>Nombre del Producto 7</h2>
-    <p>$Precio</p>
+    <img src="https://m.media-amazon.com/images/I/61kgLZQvNL._AC_SL1500_.jpg" alt="Amplificador Fender Frontman 10G">
+    <h2>Amplificador Fender Frontman 10G</h2>
+    <p>$2,300</p>
     <div class="botones">
       <a href="#">Comprar</a>
-      <a href="https://wa.me/tu-numero" class="whatsapp">WhatsApp</a>
+      <a href="https://wa.me/521234567890" class="whatsapp">WhatsApp</a>
     </div>
   </div>
 
   <!-- Producto 8 -->
   <div class="producto">
-    <img src="imagen8.jpg" alt="Producto 8">
-    <h2>Nombre del Producto 8</h2>
-    <p>$Precio</p>
+    <img src="https://m.media-amazon.com/images/I/51F2oqc0mZL._AC_SL1000_.jpg" alt="Atril Hércules BS100B">
+    <h2>Atril de Partitura Hércules BS100B</h2>
+    <p>$900</p>
     <div class="botones">
       <a href="#">Comprar</a>
-      <a href="https://wa.me/tu-numero" class="whatsapp">WhatsApp</a>
+      <a href="https://wa.me/521234567890" class="whatsapp">WhatsApp</a>
     </div>
   </div>
 
